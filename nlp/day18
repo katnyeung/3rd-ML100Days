@@ -1,0 +1,11 @@
+In supervised learning, you having a clear outcome already. The classification could be accurate and the learning speed is fast.
+However, there could be tons of preparation before you could start training, and the data preparation may require humans labor force.
+
+On the other hand, when your data does not contains a precise label. unsupervised learning is a good fit for this situation. 
+the data could be easily separated into different parts with different approaches.
+However, the classification is not precise and accurately compare to supervised learning, and the classification is just about grouping the data.
+The outcome could also be varied and may not contains the desired label with your expectation.
+
+In conclusion, supervised learning should be used when you have a clear label and well-prepared data. 
+And unsupervised learning should be used when you want a peek at the relation of unorganized data.
+In real situations, they have always used together vice versa. unsupervised learning looks for the feature in the data and supervised learning trains the labeled data.
